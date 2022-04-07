@@ -1,0 +1,12 @@
+im new to git
+create a dir then init the git
+create a new dir
+add to git
+then create anew file in the dir
+check status
+add file to git
+commit to git 
+git branch -M main
+git the remote file n add
+git push
+done
